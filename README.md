@@ -19,6 +19,12 @@ An interactive mapping website showcasing the haunting locations from five class
   - Novel and author information
   - Location description
   - Literary significance in the story
+- **Supernatural Section**: Comprehensive exploration of Gothic supernatural elements:
+  - Ghosts and hauntings in Victorian literature
+  - Vampire mythology and characteristics
+  - Reanimation and playing God themes
+  - Modern mythology and cultural legacy
+  - Victorian era context and anxieties
 - **Gothic Theme**: Dark, atmospheric design inspired by Gothic aesthetics
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 
@@ -54,6 +60,43 @@ An interactive mapping website showcasing the haunting locations from five class
 - Bath, England - Social center
 - Northanger Abbey, Gloucestershire - The titular abbey
 - Fullerton, England - Catherine's home
+
+## The Supernatural in Gothic Literature
+
+The website includes an extensive section exploring supernatural elements in Gothic novels:
+
+### Ghosts & Hauntings
+- Victorian spiritualism and séance culture
+- Ghostly presences in Jane Eyre and Wuthering Heights
+- Jane Austen's satirical take on Gothic conventions in Northanger Abbey
+
+### Vampires & Undeath
+- Eastern European folklore and Victorian anxieties
+- Dracula as the definitive vampire novel
+- Classic vampire characteristics (immortality, transformation, blood-drinking)
+- Themes of contamination, sexuality, and invasion
+
+### Reanimation & Playing God
+- Frankenstein's scientific resurrection
+- Galvanism and the blurring of science and magic
+- The Prometheus myth and stealing divine power
+- Questions about humanity and creation
+
+### Modern Mythology & Cultural Legacy
+How these Victorian Gothic novels influenced:
+- Modern vampire fiction (Interview with the Vampire, Twilight, True Blood)
+- Mad scientist tropes and contemporary bioethics debates
+- Gothic romance archetypes
+- Haunted house narratives
+- Universal Monster movies and contemporary Gothic media
+- Video games (Castlevania, Bloodborne, Vampire: The Masquerade)
+
+### Victorian Context
+Understanding why the Victorians embraced supernatural horror:
+- Industrial Revolution anxieties
+- High mortality and disease
+- Colonial anxieties and reverse colonization fears
+- Religious doubt in the Darwin era
 
 ## How to Use
 
